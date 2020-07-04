@@ -61,7 +61,7 @@ module.exports = {
     "@typescript-eslint/no-namespace": 1,
     "@typescript-eslint/no-parameter-properties": 0,
     "@typescript-eslint/no-this-alias": 2,
-    "@typescript-eslint/no-unused-vars": 2,
+    "@typescript-eslint/no-unused-vars": 1,
     "@typescript-eslint/no-use-before-declare": 0,
     "@typescript-eslint/no-var-requires": 2,
     "@typescript-eslint/prefer-for-of": 2,

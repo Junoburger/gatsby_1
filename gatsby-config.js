@@ -1,8 +1,7 @@
-const siteTitle = "gatsby-starter-typescript-deluxe";
-const siteDescription =
-  "A Gatsby starter with TypeScript, Storybook, Styled Components, Framer Motion, Jest, and more.";
-const siteAuthor = "@gojutin";
-const siteUrl = "https://gatsby-starter-typescript-deluxe.netlify.com";
+const siteTitle = "Build something beautiful";
+const siteDescription = "Build something beautiful";
+const siteAuthor = "@juno";
+const siteUrl = "https://";
 const siteImage = `${siteUrl}/icons/icon_512x512.png`;
 const siteKeywords = ["gatsby", "typescript", "starter", "javascript", "react"];
 
@@ -46,8 +45,8 @@ module.exports = {
         short_name: siteTitle,
         description: siteDescription,
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#663399`,
+        background_color: `#c8c3bb`,
+        theme_color: `#c8c3bb`,
         display: `minimal-ui`,
         icon: "src/images/icon.png",
         icons: [

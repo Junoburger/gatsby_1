@@ -4,7 +4,7 @@ import { Link as GatsbyLink } from "gatsby";
 const Link = styled(GatsbyLink)`
   margin-top: 20px;
   display: block;
-  color: white;
+  color: black;
   text-decoration: none;
   :hover {
     text-decoration: underline;

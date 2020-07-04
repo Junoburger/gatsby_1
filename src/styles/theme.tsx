@@ -10,6 +10,7 @@ export default {
     blue: "#0099ff",
     darkblue: "#00072e",
     orange: "#FF9429",
+    lightorangegrey: "#c8c3bb",
   },
   opacity: {
     0: 0,
